@@ -15,14 +15,13 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.mats-bueser.info
   # baseUrl: /status
+  theme: ocean
   logoUrl: https://home.mats-bueser.info/wp-content/uploads/2021/02/cropped-Bueser3-300x78.png
   favicon: https://home.mats-bueser.info/wp-content/uploads/fbrfg/favicon-32x32.png
   name: Status | Mats Büser
   introTitle: "Immer up to date bleiben!"
   introMessage: "Ob Wartungsarbeiten, Störungen oder Updates zu den Systemen - hier sehen Sie alles auf einen Blick."
-  
-status-website:
-  theme: ocean
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
