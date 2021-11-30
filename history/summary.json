@@ -4,19 +4,19 @@
     "url": "https://home.mats-bueser.info",
     "icon": "https://favicons.githubusercontent.com/home.mats-bueser.info",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 2602,
-    "timeDay": 2689,
-    "timeWeek": 2622,
-    "timeMonth": 2602,
-    "timeYear": 2602,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 3008,
+    "timeDay": 7110,
+    "timeWeek": 3736,
+    "timeMonth": 3008,
+    "timeYear": 3008,
     "dailyMinutesDown": {
-      "2021-11-30": 25
+      "2021-11-30": 55
     }
   },
   {
