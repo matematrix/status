@@ -4,19 +4,19 @@
     "url": "https://home.mats-bueser.info",
     "icon": "https://favicons.githubusercontent.com/home.mats-bueser.info",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "92.32%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "92.26%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
     "time": 3992,
     "timeDay": 13289,
     "timeWeek": 6170,
     "timeMonth": 3992,
     "timeYear": 3992,
     "dailyMinutesDown": {
-      "2021-11-30": 110
+      "2021-11-30": 111
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://mats-bueser.info",
     "icon": "https://favicons.githubusercontent.com/mats-bueser.info",
     "slug": "application-head-server",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "94.54%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 3078,
-    "timeDay": 13102,
-    "timeWeek": 4930,
-    "timeMonth": 3078,
-    "timeYear": 3078,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "93.89%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 3772,
+    "timeDay": 15087,
+    "timeWeek": 6499,
+    "timeMonth": 3772,
+    "timeYear": 3772,
     "dailyMinutesDown": {
-      "2021-11-30": 78
+      "2021-11-30": 88
     }
   },
   {
