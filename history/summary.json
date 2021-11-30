@@ -4,10 +4,10 @@
     "url": "https://home.mats-bueser.info",
     "icon": "https://favicons.githubusercontent.com/home.mats-bueser.info",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "84.14%",
-    "uptimeWeek": "97.73%",
+    "uptimeDay": "84.02%",
+    "uptimeWeek": "97.72%",
     "uptimeMonth": "98.96%",
     "uptimeYear": "98.96%",
     "time": 4752,
@@ -16,7 +16,7 @@
     "timeMonth": 4752,
     "timeYear": 4752,
     "dailyMinutesDown": {
-      "2021-11-30": 228
+      "2021-11-30": 230
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/mats-bueser.info",
     "slug": "application-head-server",
     "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "86.93%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
+    "uptime": "99.03%",
+    "uptimeDay": "85.15%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
     "time": 5678,
     "timeDay": 20090,
     "timeWeek": 10335,
     "timeMonth": 5678,
     "timeYear": 5678,
     "dailyMinutesDown": {
-      "2021-11-30": 188
+      "2021-11-30": 214
     }
   },
   {
