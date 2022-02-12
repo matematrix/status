@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/home.mats-bueser.info",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 3288,
     "timeDay": 2473,
     "timeWeek": 2605,
@@ -28,11 +28,11 @@
     "icon": "https://favicons.githubusercontent.com/mats-bueser.info",
     "slug": "application-head-server",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 3105,
     "timeDay": 1918,
     "timeWeek": 1971,
@@ -50,9 +50,9 @@
     "url": "https://mats-bueser.de",
     "icon": "https://favicons.githubusercontent.com/mats-bueser.de",
     "slug": "vpn-and-pi-hole",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -61,6 +61,8 @@
     "timeWeek": 605,
     "timeMonth": 584,
     "timeYear": 574,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 0
+    }
   }
 ]
