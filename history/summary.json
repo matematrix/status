@@ -6,17 +6,16 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 2540,
-    "timeDay": 9931,
-    "timeWeek": 4522,
-    "timeMonth": 2834,
-    "timeYear": 2399,
+    "time": 2539,
+    "timeDay": 10156,
+    "timeWeek": 4516,
+    "timeMonth": 2870,
+    "timeYear": 2401,
     "dailyMinutesDown": {
-      "2023-11-06": 9,
       "2023-09-02": 31,
       "2023-07-20": 20,
       "2023-07-18": 17,
@@ -36,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 733,
-    "timeDay": 460,
-    "timeWeek": 505,
-    "timeMonth": 475,
-    "timeYear": 516,
+    "time": 719,
+    "timeDay": 548,
+    "timeWeek": 521,
+    "timeMonth": 480,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2023-01-25": 80
     }
@@ -51,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mats-bueser.de.ico",
     "slug": "vpn-and-pi-hole",
     "status": "down",
-    "uptime": "24.92%",
+    "uptime": "24.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -62,7 +61,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-06": 1285,
+      "2023-11-07": 61,
+      "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
@@ -425,8 +425,7 @@
       "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
-      "2022-11-08": 1440,
-      "2022-11-07": 1440
+      "2022-11-08": 1440
     }
   }
 ]
