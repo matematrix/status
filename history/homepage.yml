@@ -1,7 +1,7 @@
 url: https://home.mats-bueser.info
-status: up
-code: 200
-responseTime: 2535
-lastUpdated: 2024-03-23T08:31:40.740Z
+status: down
+code: 503
+responseTime: 1547
+lastUpdated: 2024-03-23T14:32:36.130Z
 startTime: 2021-11-14T22:32:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
