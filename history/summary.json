@@ -10,11 +10,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
-    "time": 2812,
-    "timeDay": 3772,
-    "timeWeek": 3404,
-    "timeMonth": 3524,
-    "timeYear": 2954,
+    "time": 2814,
+    "timeDay": 3365,
+    "timeWeek": 3482,
+    "timeMonth": 3510,
+    "timeYear": 2956,
     "dailyMinutesDown": {
       "2024-10-03": 24,
       "2024-04-29": 61,
@@ -41,17 +41,16 @@
     "slug": "application-head-server",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 893,
-    "timeDay": 1106,
+    "time": 894,
+    "timeDay": 1082,
     "timeWeek": 1240,
-    "timeMonth": 1187,
-    "timeYear": 1013,
+    "timeMonth": 1170,
+    "timeYear": 1015,
     "dailyMinutesDown": {
-      "2024-10-08": 8,
       "2024-10-03": 23,
       "2024-04-29": 50,
       "2024-04-28": 16,
@@ -76,7 +75,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-08": 1069,
+      "2024-10-09": 77,
+      "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -439,8 +439,7 @@
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
-      "2023-10-11": 1440,
-      "2023-10-10": 1440
+      "2023-10-11": 1440
     }
   }
 ]
