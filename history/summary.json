@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.mats-bueser.info.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.91%",
-    "time": 3148,
-    "timeDay": 3495,
-    "timeWeek": 3355,
-    "timeMonth": 3245,
-    "timeYear": 3491,
+    "uptime": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.92%",
+    "time": 3138,
+    "timeDay": 4915,
+    "timeWeek": 3730,
+    "timeMonth": 3315,
+    "timeYear": 3490,
     "dailyMinutesDown": {
-      "2025-04-28": 12,
       "2025-03-26": 25,
       "2025-03-07": 69,
       "2024-11-08": 18,
@@ -25,8 +24,7 @@
       "2024-10-17": 26,
       "2024-10-15": 43,
       "2024-10-14": 118,
-      "2024-10-03": 24,
-      "2024-04-29": 61
+      "2024-10-03": 24
     }
   },
   {
@@ -36,25 +34,23 @@
     "slug": "application-head-server",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.95%",
-    "time": 1097,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
+    "time": 1098,
     "timeDay": 1181,
-    "timeWeek": 1190,
-    "timeMonth": 1242,
+    "timeWeek": 1194,
+    "timeMonth": 1241,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2025-04-28": 11,
       "2025-03-07": 22,
       "2024-11-08": 18,
       "2024-10-24": 24,
       "2024-10-17": 26,
       "2024-10-15": 27,
       "2024-10-14": 36,
-      "2024-10-03": 23,
-      "2024-04-29": 50
+      "2024-10-03": 23
     }
   },
   {
@@ -74,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-28": 895,
+      "2025-04-29": 87,
+      "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -437,8 +434,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   }
 ]
