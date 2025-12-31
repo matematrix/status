@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.mats-bueser.info.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
-    "time": 3370,
-    "timeDay": 3512,
-    "timeWeek": 3286,
-    "timeMonth": 2962,
-    "timeYear": 3284,
+    "time": 3369,
+    "timeDay": 3523,
+    "timeWeek": 3327,
+    "timeMonth": 2978,
+    "timeYear": 3283,
     "dailyMinutesDown": {
       "2025-12-11": 31,
       "2025-12-07": 16,
@@ -42,10 +42,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1208,
-    "timeDay": 1222,
-    "timeWeek": 1277,
-    "timeMonth": 1224,
+    "time": 1209,
+    "timeDay": 1250,
+    "timeWeek": 1276,
+    "timeMonth": 1225,
     "timeYear": 1208,
     "dailyMinutesDown": {
       "2025-06-04": 23,
@@ -62,7 +62,7 @@
     "uptime": "11.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -70,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-30": 105,
+      "2025-12-31": 106,
+      "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
@@ -433,8 +434,7 @@
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
-      "2025-01-01": 1440,
-      "2024-12-31": 1440
+      "2025-01-01": 1440
     }
   }
 ]
